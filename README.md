@@ -5,11 +5,11 @@ There is a single feature input array x, formed by 100 random integers ranging f
 
 m = x*y.mean() - x.mean()*y.mean()/x*x.mean() - x.mean()*x.mean()
 
-c = y.mean() - mx.mean()
+c = y.mean() - m*x.mean()
 
 Then I have calculated the score for the predicted values of y as:
 
-Score = Score (COD) = 1 - (Σyitrue - yipredicted)/(Σyitrue - yimean)
+Score = Score (COD) = 1 - (Σytrue - ypredicted)/(Σytrue - ymean)
 
 The result of my findings is: 
 
