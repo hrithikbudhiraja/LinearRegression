@@ -1,7 +1,5 @@
 # linearRegression
 Here, I have built a program for linear regression
-
-
 There is a single feature input array y, formed by 100 random integers ranging from 0 to 100.
 
 
