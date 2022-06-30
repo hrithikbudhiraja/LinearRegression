@@ -1,4 +1,4 @@
-# linearRegression
+# 1. linearRegressionFromScratch
 Here, I have built a program for linear regression
 
 There is a single feature input array x, formed by 100 random integers ranging from 0 to 100.The output y array is defined as: y = (x/2)**2 + 5*(x/3) + 7
@@ -18,3 +18,11 @@ m = 26.25812363672978
 c = -353.083439176678
 
 Test score = 0.9198879743215916
+
+# 2. Linear Regression on diabetes dataset
+
+10 input features, such as age, sex, bmi, s1-->6
+
+Output value: quantitative measure of disease progression one year after baseline
+
+Test score: 0.5335396935584695 (Not so great)
