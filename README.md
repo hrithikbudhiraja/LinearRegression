@@ -1,4 +1,4 @@
-# 1. linearRegressionFromScratch
+# 1. Linear Regression from Scratch
 Here, I have built a program for linear regression
 
 There is a single feature input array x, formed by 100 random integers ranging from 0 to 100.The output y array is defined as: y = (x/2)**2 + 5*(x/3) + 7
